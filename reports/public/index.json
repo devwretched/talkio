@@ -1,0 +1,30 @@
+[
+  {
+    "title": "TechTalk: Cloud Computing Fundamentals",
+    "description": "An introduction to AWS, Azure, and modern cloud deployment patterns.",
+    "date": "2026-05-10",
+    "slug": "cloud-computing-fundamentals",
+    "url": "/reports/events/cloud-computing-fundamentals/"
+  },
+  {
+    "title": "Cybersecurity 101: Web App Vulnerabilities",
+    "description": "Understanding common web exploits like XSS and SQL Injection, and how to prevent them.",
+    "date": "2026-04-15",
+    "slug": "cybersecurity-101-web-vulns",
+    "url": "/reports/events/cybersecurity-101-web-vulns/"
+  },
+  {
+    "title": "System Design: Scaling to 1M Users",
+    "description": "A deep dive into distributed systems, load balancing, and database scaling techniques.",
+    "date": "2026-03-22",
+    "slug": "system-design-scaling",
+    "url": "/reports/events/system-design-scaling/"
+  },
+  {
+    "title": "Intro to Machine Learning Models",
+    "description": "Exploring basic ML algorithms, regression, and classification using scikit-learn.",
+    "date": "2026-02-10",
+    "slug": "intro-to-ml-models",
+    "url": "/reports/events/intro-to-ml-models/"
+  }
+]

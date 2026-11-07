@@ -1,0 +1,28 @@
+# ── secrets & local config ──
+.env
+frontend/.env
+*.local
+
+# ── dependencies & build artifacts ──
+node_modules/
+frontend/node_modules/
+frontend/.next/
+dist/
+bin/
+tmp/
+
+# ── runtime data ──
+uploads/
+*.log
+*.pid
+
+# ── legacy static site (kept on disk, not shipped) ──
+reports/bin/
+reports/config/
+reports/content/
+reports/layouts/
+
+# ── editor ──
+.vscode/
+.idea/
+.DS_Store

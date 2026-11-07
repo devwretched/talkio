@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechTalk Reports</title>
+    <link>/reports/</link>
+    <description>Recent content on TechTalk Reports</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/reports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TechTalk: Cloud Computing Fundamentals</title>
+      <link>/reports/events/cloud-computing-fundamentals/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>/reports/events/cloud-computing-fundamentals/</guid>
+      <description>Overview This workshop covered the basics of cloud computing, focusing on practical deployment strategies for student projects.&#xA;Key Takeaways VMs vs Containers vs Serverless Basic AWS services (EC2, S3) Deployment pipelines </description>
+    </item>
+    <item>
+      <title>Cybersecurity 101: Web App Vulnerabilities</title>
+      <link>/reports/events/cybersecurity-101-web-vulns/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/reports/events/cybersecurity-101-web-vulns/</guid>
+      <description>Overview A hands-on session where students learned about the OWASP Top 10 and practiced attacking a deliberately vulnerable web application.&#xA;Key Takeaways How XSS works in modern single-page apps SQL injection prevention techniques Importance of secure headers </description>
+    </item>
+    <item>
+      <title>System Design: Scaling to 1M Users</title>
+      <link>/reports/events/system-design-scaling/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/reports/events/system-design-scaling/</guid>
+      <description>Overview An advanced session on system design principles, walking through the architecture of a hypothetical social media platform scaling to 1 million active users.&#xA;Key Takeaways Horizontal vs Vertical scaling Caching strategies (Redis, Memcached) Database sharding and replication </description>
+    </item>
+    <item>
+      <title>Intro to Machine Learning Models</title>
+      <link>/reports/events/intro-to-ml-models/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/reports/events/intro-to-ml-models/</guid>
+      <description>Overview A beginner-friendly workshop introducing the fundamental concepts of machine learning, focusing on linear regression and random forests.&#xA;Key Takeaways Training vs Testing data Evaluating model accuracy Practical implementation using Python and scikit-learn </description>
+    </item>
+  </channel>
+</rss>
